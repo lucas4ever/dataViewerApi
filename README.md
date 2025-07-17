@@ -71,7 +71,7 @@ disponibilizamos um dump inicial da base de dados com dados no IBGE (feito com o
    create extension postgis;
  ```
 
-- Abra o PGAdmin e selecione a opção "restore", selecionando o aruqivo do pdc.dump
+- Abra o PGAdmin e selecione a opção "restore", selecionando o arquivo do pdc.dump
 
 
 ### Configurar Globals.py
